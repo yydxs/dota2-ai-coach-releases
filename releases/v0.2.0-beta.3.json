@@ -1,0 +1,50 @@
+{
+  "version": "0.2.0-beta.3",
+  "assets": [
+    {
+      "name": "dota2-ai-coach-0.2.0-beta.3-mac-arm64.dmg",
+      "size": 149723492,
+      "sha256": "ff6da173881495945b7e5212e71dfc555112d33081dcb904dcc9455b9d3edf5f"
+    },
+    {
+      "name": "dota2-ai-coach-0.2.0-beta.3-mac-arm64.zip",
+      "size": 144203190,
+      "sha256": "dc51b3f61239ad24ff306be02ebb8e856b27940b174dced42e215d9738bf44a7"
+    },
+    {
+      "name": "dota2-ai-coach-0.2.0-beta.3-mac-arm64.zip.blockmap",
+      "size": 153234,
+      "sha256": "4d0d1e20a1f20a76af4a373b8d4eb369bc556b60d3b141a2611eeb05a92043e2"
+    },
+    {
+      "name": "latest-mac.yml",
+      "size": 558,
+      "sha256": "fa2213884f41d06a5b32e303ef0e8d5bc810058ea6aca34d9effc784df645c64"
+    },
+    {
+      "name": "dota2-ai-coach-0.2.0-beta.3-win-x64-setup.exe",
+      "size": 138889488,
+      "sha256": "ec5ac134be0f28b1cb6567e83bd70dfb09ac0dca6d368b81ab31a94d51842762"
+    },
+    {
+      "name": "dota2-ai-coach-0.2.0-beta.3-win-x64-setup.exe.blockmap",
+      "size": 146617,
+      "sha256": "9cc2095bc652565fa88cff5d442bddb8237e03772e50176c5086bc2379f755ea"
+    },
+    {
+      "name": "latest.yml",
+      "size": 394,
+      "sha256": "0c907a020eecf604645b2e333e38764624b2eb27649beaf25673d21bebb073de"
+    },
+    {
+      "name": "SHA256SUMS.txt",
+      "size": 808,
+      "sha256": "28d8a1c363481a1ad5747df5f90b960b8fd18ae267e071745ee15c27fb598f2c"
+    },
+    {
+      "name": "release-notes.txt",
+      "size": 118,
+      "sha256": "eec36b5aaa1bd02f7d35247f990122d5c7d9ce608d3c7e6510e5f6280a511486"
+    }
+  ]
+}
